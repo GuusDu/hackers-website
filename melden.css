@@ -1,0 +1,37 @@
+input[type=text], input[type=tel], input[type=email] {
+  background-color: whitesmoke;
+  color: black;
+  width: 30%;
+  padding: 10px 30px;
+  margin: 8px 0;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  border: 3px solid Grey;
+  border-radius: 10px;
+}
+
+input[type=land] {
+background-color: whitesmoke;
+color: black;
+width: 60px;
+padding: 6px 4px;
+margin: 8px 0;
+margin-bottom: 40px;
+box-sizing: border-box;
+border: 3px solid grey;
+border-radius: 10px;
+
+}
+
+input[type=why] {
+  text-align: left;
+  background-color: whitesmoke;
+  color: black;
+  width: 80%;
+  padding: 60px 30px;
+  margin: 8px 0;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  border: 3px solid Grey;
+  border-radius: 10px;
+}
