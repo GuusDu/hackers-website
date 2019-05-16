@@ -1,0 +1,34 @@
+body {
+  background-color: white;
+}
+
+.bottom {
+  background-color: #6788bf;
+  color: white;
+  font-family: serif;
+  padding: 40px;
+  text-align: center;
+  font-weight: 100;
+}
+
+
+.main-nav a{
+  margin: 0px -2px;
+	display:inline-block;
+	background-color:#6788bf;
+	color:whitesmoke;
+	text-decoration:none;
+	padding: 10px 10px;
+	position:relative;
+	top:10px;
+	transition: all 300ms ease;
+}
+
+.main-nav a:hover{
+	box-shadow:
+              1px 1px #53a7ea,
+              2px 2px #53a7ea,
+              3px 3px #53a7ea;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px);
+}
