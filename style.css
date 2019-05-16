@@ -6,6 +6,15 @@ body {
   background-color: white;
 }
 
+.bottom {
+  background-color: #6788bf;
+  color: white;
+  font-family: serif;
+  padding: 40px;
+  text-align: center;
+  font-weight: 100;
+}
+
 .main-nav a{
   margin: 0px -2px;
 	display:inline-block;
@@ -25,4 +34,23 @@ body {
               3px 3px #53a7ea;
   -webkit-transform: translateX(-3px);
   transform: translateX(-3px);
+}
+
+.header {
+  font-size: 150%;
+  color: white;
+  text-align: center;
+  background-color:#6788bf;
+  padding: 30px;
+}
+
+.preText {
+    width: 750px;
+    word-wrap: break-word;
+}
+
+p{
+  font-size: 100%;
+  font-family: Arial;
+  font-weight: 300;
 }
