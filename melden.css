@@ -103,6 +103,10 @@ body {
   transform: translateX(-3px);
 }
 
+#cast a:hover {
+  border-bottom: 2px solid #6788bf;
+}
+
 .header {
   font-size: 150%;
   color: white;
